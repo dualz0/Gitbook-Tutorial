@@ -6,7 +6,7 @@
 
 
 
-![Create a new space](https://raw.githubusercontent.com/dualz0/Gitbook-Tutorial/master/img/Create a new space.png)
+![Create a new space](https://raw.githubusercontent.com/dualz0/Gitbook-Tutorial/master/img/Create-a-new-space.png)
 
 
 
